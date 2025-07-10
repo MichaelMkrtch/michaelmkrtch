@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelmkrtch)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmkrtch&layout=donut&langs_count=6&hide=html,javascript,mdx)](https://github.com/anuraghazra/github-readme-stats)
